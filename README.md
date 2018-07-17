@@ -1,3 +1,6 @@
+#tip: Test on felaray's fork
+try to fix cordova phone auth
+
 [![Build Status](https://travis-ci.org/arnesson/cordova-plugin-firebase.svg?branch=master)](https://travis-ci.org/arnesson/cordova-plugin-firebase)
 
 # cordova-plugin-firebase
