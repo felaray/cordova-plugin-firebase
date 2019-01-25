@@ -49,16 +49,16 @@ add example(index.js)
 
 
 Firebase Payload
-{
- "to" : "",
- "collapse_key" : "type_a",
- "notification" : {
-     "body" : "Nav to new page",
-     "title": "New message"
- },
- "data" : {
-     "body" : "Nav to new page",
-     "title": "New message"
-     "url":"hello.html"
- }
-}
+    {
+     "to" : "",
+     "collapse_key" : "type_a",
+     "notification" : {
+         "body" : "Nav to new page",
+         "title": "New message"
+     },
+     "data" : {
+         "body" : "Nav to new page",
+         "title": "New message"
+         "url":"hello.html"
+     }
+    }
