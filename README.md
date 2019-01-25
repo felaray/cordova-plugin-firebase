@@ -1,4 +1,4 @@
-add example
+add example(index.js)
 
     getToken: function () {
 
@@ -44,3 +44,21 @@ add example
             console.error(error);
         });
     }
+
+
+
+=========================================
+Firebase Payload
+{
+ "to" : "",
+ "collapse_key" : "type_a",
+ "notification" : {
+     "body" : "Nav to new page",
+     "title": "New message"
+ },
+ "data" : {
+     "body" : "Nav to new page",
+     "title": "New message"
+     "url":"hello.html"
+ }
+}
